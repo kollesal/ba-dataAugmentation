@@ -1,0 +1,7 @@
+data/video/
+.ipynb_checkpoints/
+__pycache__
+backups/
+accuracies.xlsx
+models/~$accuracies.xlsx
+trink_video.mp4
